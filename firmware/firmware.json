@@ -5,6 +5,6 @@
   "url_beta"          : "https://emra-git.github.io/uhf_reader_mruhfmc/firmware/beta/empty_firmware_0.99f_beta_3.bin",
 
   "version_stable"    : 0.99,
-  "build_stable"      :"f",
+  "build_stable"      :"e",
   "url_stable"        : "https://emra-git.github.io/uhf_reader_mruhfmc/firmware/stable/empty_firmware_0.99f_stable.bin"
 }
