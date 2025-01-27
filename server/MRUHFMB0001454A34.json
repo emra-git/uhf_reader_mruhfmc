@@ -4,7 +4,7 @@
   "dbm": 1,
   "extraReader" : true,
   "MaxReadLoop" : 2,
-  "IntervalTurn" : 4000,
+  "IntervalTurn" : 4999,
   "IntervalClearSerial" : 99
   
 }
