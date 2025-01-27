@@ -1,10 +1,10 @@
 {
   "server_rs" : "7Xj7pwSMkCWmy8Jpvg6njyBFNo4z/aOsZW8XgmKeZlBwhGj3J9GICCWuJ2a5VGR6xUzg3oGcIOlioTqQB14BEA==",
   
-  "dbm": 2,
+  "dbm": 1,
   "extraReader" : true,
-  "MaxReadLoop" : 10,
-  "IntervalTurn" : 6000,
-  "IntervalClearSerial" : 500
+  "MaxReadLoop" : 3,
+  "IntervalTurn" : 5000,
+  "IntervalClearSerial" : 100
   
 }
