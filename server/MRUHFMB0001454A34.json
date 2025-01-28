@@ -5,6 +5,6 @@
   "extraReader" : true,
   "MaxReadLoop" : 10,
   "IntervalTurn" : 6000,
-  "IntervalClearSerial" : 500
+  "IntervalClearSerial" : 700
   
 }
