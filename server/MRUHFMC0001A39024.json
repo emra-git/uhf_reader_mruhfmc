@@ -6,5 +6,6 @@
   "MaxReadLoop" : 10,
   "IntervalTurn" : 5000,
   "IntervalClearSerial" : 800,
-  "rssi": -60
+  "rssi": -60,
+  "rssiFilter" = true,
 }
