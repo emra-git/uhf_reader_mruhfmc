@@ -7,5 +7,5 @@
   "IntervalTurn" : 5000,
   "IntervalClearSerial" : 800,
   "rssiRange": -60,
-  "rssiFilter": true
+  "rssiStatus": true
 }
